@@ -1,5 +1,5 @@
 <template>
-  <div id="about-wrapper">
+  <div class="about-wrapper" id="about-wrapper">
         <section id="scroll">
         <div class="container px-5">
             <div class="row gx-5 align-items-center">
@@ -86,7 +86,8 @@ export default {
 }
 .display {
   font-family: Georgia, serif;
-
-
+}
+.about-wrapper {
+     background: rgb(195, 178, 199);
 }
 </style>

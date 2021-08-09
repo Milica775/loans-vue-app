@@ -129,7 +129,7 @@ export default {
     background-size: cover;
   }
   .unsecurity-loan {
-        background-image: url("../../../assets/unsecurity-loan.jpg");
+        background-image: url("../../../assets/unsecured-loan.jpg");
 
     background-repeat: no-repeat;
     background-size: cover;
